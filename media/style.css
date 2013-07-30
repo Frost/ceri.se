@@ -1,0 +1,39 @@
+h1,h2,h3,h4,h5{
+  font-family: "daniel-1", "daniel-2";
+  font-weight: normal;
+}
+body {
+  font-family: "legendum-1", "legendum-2";
+}
+div {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  max-width:800px;
+}
+h1 {
+  font-size:48pt;
+  padding-bottom: 0px;
+  margin: 0px;
+  color:#e2007f;
+}
+img {
+  border:1px solid black;
+  max-width: 100%;
+}
+span.refer {
+  float: right;
+  font-size: 75%;
+  color: #666;
+}
+span.refer a, span.refer a:visited {
+  color: #444;
+}
+span.refer a:hover {
+  color: #000;
+}
+.wf-loading h1, .wf-loading h2, .wf-loading h3, .wf-loading h4, .wf-loading h5, .wf-loading p, .wf-loading span {
+  visibility: hidden;
+}
+
+
