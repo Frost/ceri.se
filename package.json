@@ -1,6 +1,6 @@
 {
   "name": "ceri.se",
-  "version": "0.1.0"
+  "version": "0.1.0",
   "author": "Martin Frost",
   "repository": "git://github.com/Frost/ceri.se.git"
   "dependencies": { 
