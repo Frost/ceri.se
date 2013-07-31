@@ -2,7 +2,7 @@
   "name": "ceri.se",
   "version": "0.1.0",
   "author": "Martin Frost",
-  "repository": "git://github.com/Frost/ceri.se.git"
+  "repository": "git://github.com/Frost/ceri.se.git",
   "dependencies": { 
     "node-ga": "0.1.x",
     "connect": "2.8.x"
