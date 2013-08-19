@@ -1,5 +1,5 @@
 {
   "ga": "UA-XXXXXXXX-Y",
   "static": "media",
-  "port": 4711
+  "listen": "/tmp/my-fancy-webapp.sock"
 }
