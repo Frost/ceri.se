@@ -1,7 +1,8 @@
-var config = require('./config');
 var connect = require('connect');
+var ga = require('node-ga');
+var config = require('./config.json');
 connect()
   .use(connect.cookieParser())
-  .use(require('node-ga')(config.ga))
+  .use(ga(config.ga))
   .use(connect.static(config.static))
   .listen(config.listen)
